@@ -2,9 +2,9 @@
 Este portfólio foi desenvolvido como parte da minha formação no curso de Análise e Desenvolvimento de Sistemas, com o objetivo de reunir projetos práticos realizados ao longo da graduação.
 # 👋 Olá! Eu sou o Abel Oliveira
 
-🎓 Estudante de Análise e Desenvolvimento de Sistemas  
-💡 Apaixonado por tecnologia, programação e inovação  
-🚀 Em busca de oportunidades como desenvolvedor
+ Estudante de Análise e Desenvolvimento de Sistemas  
+ Apaixonado por tecnologia, programação e inovação  
+Em busca de oportunidades como desenvolvedor
 
 ## 🛠️ Tecnologias que estou aprendendo:
 - HTML, CSS e JavaScript
@@ -18,7 +18,7 @@ Este é um projeto desenvolvido como parte do meu portfólio acadêmico no curso
 
 ---
 
-## 🎯 Objetivo do Projeto
+##  Objetivo do Projeto
 
 Criar um sistema básico de cadastro, onde seja possível:
 - Adicionar usuários
@@ -28,7 +28,7 @@ Criar um sistema básico de cadastro, onde seja possível:
 
 ---
 
-## 🧰 Tecnologias Utilizadas
+# Tecnologias Utilizadas
 
 - HTML5
 - CSS3
@@ -39,7 +39,7 @@ Criar um sistema básico de cadastro, onde seja possível:
 
 ---
 
-## 💡 O que eu aprendi com este projeto
+# O que eu aprendi com este projeto
 
 ✅ Estruturação de um projeto completo do zero  
 ✅ Criação de formulários interativos com validação em JavaScript  
@@ -51,21 +51,21 @@ Criar um sistema básico de cadastro, onde seja possível:
 
 ---
 
-## 📷 Imagens do Projeto
+##  Imagens do Projeto: Analise e Desenvolvimento de Sistemas
 
 > ![Uploading 1745dd92-b8b5-4df9-a675-35320aec628b.png…]()
 
 
 ---
 
-## 🚀 Como executar
+# Como executar
 
 1. Clone o repositório:
 ```bash
 git clone https://github.com/seu-usuario/nome-do-repositorio.git
 
 
-## 🚀 Como executar
+# Como executar
 
 1. Clone o repositório:
 ```bash
