@@ -1,90 +1,90 @@
-# Abel-Henrique
-Este portfólio foi desenvolvido como parte da minha formação no curso de Análise e Desenvolvimento de Sistemas, com o objetivo de reunir projetos práticos realizados ao longo da graduação.
-# 👋 Olá! Eu sou o Abel Oliveira
+# Calculadora de Orçamento Pessoal
 
- Estudante de Análise e Desenvolvimento de Sistemas  
- Apaixonado por tecnologia, programação e inovação  
-Em busca de oportunidades como desenvolvedor
+## Descrição
 
-## 🛠️ Tecnologias que estou aprendendo:
-- HTML, CSS e JavaScript
+Aplicação web simples feita em React para registrar despesas e visualizar um resumo mensal dos gastos. Este foi meu primeiro projeto utilizando React, focado em conceitos fundamentais de front-end.
+
+---
+
+## Funcionalidades
+
+- Adicionar despesas com descrição, valor e data;
+- Listar despesas cadastradas;
+- Mostrar resumo mensal com total de gastos.
+
+---
+
+## Tecnologias utilizadas
+
 - React
-- Node.js
-- Git e GitHub
-
-- # 📁 Projeto: Sistema de Cadastro de Usuários
-
-Este é um projeto desenvolvido como parte do meu portfólio acadêmico no curso de **Análise e Desenvolvimento de Sistemas**. O objetivo principal foi criar uma aplicação simples e funcional de cadastro de usuários, utilizando boas práticas de programação e tecnologias modernas.
-
----
-
-##  Objetivo do Projeto
-
-Criar um sistema básico de cadastro, onde seja possível:
-- Adicionar usuários
-- Listar todos os usuários cadastrados
-- Editar e remover cadastros
-- Armazenar os dados de forma organizada
-
----
-
-# Tecnologias Utilizadas
-
+- JavaScript (ES6+)
 - HTML5
 - CSS3
-- JavaScript
-- Node.js (com Express)
-- Banco de Dados JSON (simulação de armazenamento)
-- Git e GitHub para versionamento
 
 ---
 
-# O que eu aprendi com este projeto
-
-✅ Estruturação de um projeto completo do zero  
-✅ Criação de formulários interativos com validação em JavaScript  
-✅ Manipulação de dados no backend com Node.js  
-✅ Roteamento básico usando Express  
-✅ Controle de versões e organização do projeto com Git e GitHub  
-✅ Uso de ferramentas de depuração no navegador e no terminal  
-✅ Importância de pensar na experiência do usuário (UX)
-
----
-
-##  Imagens do Projeto: Analise e Desenvolvimento de Sistemas
-
-> ![Uploading 1745dd92-b8b5-4df9-a675-35320aec628b.png…]()
-
-
----
-
-# Como executar
+## Como executar
 
 1. Clone o repositório:
+
 ```bash
-git clone https://github.com/seu-usuario/nome-do-repositorio.git
-
-
-# Como executar
-
-1. Clone o repositório:
-```bash
-git clone https://github.com/seu-usuario/nome-do-repositorio.git
-Navegue até o diretório do projeto:
+git clone https://github.com/seu-usuario/calculadora-orcamento-pessoal.git
+Entre na pasta do projeto:
 
 bash
 Copiar
 Editar
-cd nome-do-repositorio
-Instale as dependências (se houver):
+cd calculadora-orcamento-pessoal
+Instale as dependências:
 
 bash
 Copiar
 Editar
 npm install
-Inicie o servidor:
+Inicie a aplicação:
 
 bash
 Copiar
 Editar
-node index.js
+npm start
+Acesse http://localhost:3000 no seu navegador.
+
+Estrutura de arquivos principais
+src/App.js — Componente principal que gerencia o estado das despesas.
+
+src/ExpenseForm.js — Formulário para adicionar novas despesas.
+
+src/ExpenseList.js — Lista de despesas registradas.
+
+src/ExpenseSummary.js — Resumo mensal das despesas.
+
+src/App.css — Estilos básicos da aplicação.
+
+Exemplo de código
+jsx
+Copiar
+Editar
+// Exemplo simples do formulário de despesas (ExpenseForm.js)
+import React, { useState } from 'react';
+
+function ExpenseForm({ onAddExpense }) {
+  // ...
+}
+
+export default ExpenseForm;
+Próximos passos
+Salvar dados no armazenamento local (localStorage);
+
+Permitir edição e exclusão de despesas;
+
+Adicionar gráficos para visualização mais detalhada.
+
+Contato
+Para dúvidas ou sugestões:
+
+# contato: 41 999862575
+
+LinkedIn:www.linkedin.com/in/
+abel-henrique-222175379
+Nome fantasia da URL
+
